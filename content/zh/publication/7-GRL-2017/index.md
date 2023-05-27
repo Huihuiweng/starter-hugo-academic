@@ -1,16 +1,10 @@
 ---
-title: "Continuum of earthquake rupture speeds enabled by oblique slip"
+title: "Seismogenic width controls aspect ratios of earthquake ruptures"
 authors:
-- Huihui Weng
-- Jean-Paul Ampuero
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-date: "2020"
-#doi: ""
-#
-## Schedule page publish date (NOT publication's date).
-#publishDate: "2020"
+- hweng
+- Hongfeng Yang
+date: 2017-03-17T10:23:57+08:00
+doi: "https://doi.org/10.1002/2016GL072168"
 #
 ## Publication type.
 ## Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +13,10 @@ date: "2020"
 publication_types: ["2"]
 #
 ## Publication name and optional abbreviated publication name.
-publication: "*Nature Geoscience*"
-#publication_short: ""
+publication: "*Geophysical Research Letters*"
 #
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "We investigate the effect of seismogenic width on aspect ratios of earthquake ruptures by using numerical simulations of strike-slip faulting and an energy balance criterion near rupture tips. If the seismogenic width is smaller than a critical value, then ruptures cannot break the entire fault, regardless of the size of the nucleation zone. The seismic moments of these self-arresting ruptures increase with the nucleation size, forming nucleation-related events. The aspect ratios increase with the seismogenic width but are smaller than 8. In contrast, ruptures become breakaway and tend to have high aspect ratios (>8) if the seismogenic width is sufficiently large. But the critical nucleation size is larger than the theoretical estimate for an unbounded fault. The eventual seismic moments of breakaway ruptures do not depend on the nucleation size. Our results suggest that estimating final earthquake magnitude from the nucleation phase may only be plausible on faults with small seismogenic width."
+ 
 #
 ## Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +28,7 @@ publication: "*Nature Geoscience*"
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41561-020-00654-4
+url_pdf: https://doi.org/10.1002/2016GL072168
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''

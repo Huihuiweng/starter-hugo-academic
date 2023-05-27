@@ -1,7 +1,7 @@
 ---
 title: "The Dynamics of Elongated Earthquake Ruptures"
 authors:
-- Huihui Weng
+- hweng
 - Jean-Paul Ampuero
 date: 2019-07-30T10:23:57+08:00
 doi: "https://doi.org/10.1029/2019JB017684"

@@ -2,7 +2,7 @@
 title: "Does a damaged fault zone mitigate the near-field impact of supershear earthquakes? Application to the 2018 Mw 7.5 Palu earthquake"
 authors:
 - Elif Oral
-- Huihui Weng
+- hweng
 - Jean-Paul Ampuero
 date: 2020-01-03T10:23:57+08:00
 doi: "https://doi.org/10.1029/2019GL085649"

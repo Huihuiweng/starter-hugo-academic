@@ -1,11 +1,8 @@
 ---
 title: "Continuum of earthquake rupture speeds enabled by oblique slip"
 authors:
-- Huihui Weng
+- hweng
 - Jean-Paul Ampuero
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
 date: "2020-12-01"
 doi: "https://www.nature.com/articles/s41561-020-00654-4"
 #

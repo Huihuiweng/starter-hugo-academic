@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 翁辉辉
+title: Huihui Weng
 
 # Is this the primary user of the site?
 superuser: true

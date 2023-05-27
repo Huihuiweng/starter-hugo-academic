@@ -1,10 +1,12 @@
 ---
-title: "Constraining frictional properties on fault by dynamic rupture simulations and near-field observation"
+title: "Earthquake rupture extents and coseismic slips promoted by damaged fault zones"
 authors:
 - hweng
 - Hongfeng Yang
-date: 2018-07-24T10:23:57+08:00
-doi: "https://doi.org/10.1029/2017JB015414"
+- Zhenguo Zhang
+- Xiaofei Chen
+date: 2016-05-20T10:23:57+08:00
+doi: "https://doi.org/10.1002/2015JB012713"
 #
 ## Publication type.
 ## Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +18,7 @@ publication_types: ["2"]
 publication: "*Journal of Geophysical Research: Solid Earth*"
 #publication_short: "JGR"
 #
-abstract: "Frictional properties of seismogenic faults play critical roles in earthquake generation and rupture propagation. Although laboratory measurements have well revealed the frictional parameters of a variety of rock samples, those on seismogenic faults remain difficult to determine due to the strong trade-off between critical slip-weakening distance (d0) and strength drop. Here we conduct dynamic rupture simulations to determine the frictional parameters on the fault where the 2015 Mw7.8 Nepal earthquake occurred, with constraints from near-field seismic and geodetic observations, and kinematic source models. By utilizing different trade-off patterns of source parameters and multiple observations for the first time, we can determine the frictional parameters of the seismogenic fault. The best fit dynamic model yields a d0value of ~0.6 m, in contrast to the previous kinematical estimation of ~5 m (Galetzka et al., 2015, https://doi.org/10.1126/science.aac6383). The average fracture energy of this event is urn:x-wiley:21699313:media:jgrb52922:jgrb52922-math-0001 J/m2. Such approach can be used to determine the frictional parameters on seismogenic faults, which could serve for seismic hazard assessment by predicting ground motion from dynamic rupture simulations."
+abstract: "Here we investigate the effects of damage fault zones on rupture propagation by conducting a series of 3-D dynamic rupture simulations on a planar vertical strike-slip fault. We find that damage fault zones can promote rupture extent and increase earthquake potency. The waves reflected from the bottom of shallow damage fault zones can increase shear stress on the fault and thus promote rupture propagation. In addition, the promotional effects increase with the width and depth extent of damage fault zones. The overall effects of the waves reflected from the fault-parallel side boundaries of damage fault zones are unfavorable for rupture propagation. Therefore, rupture propagation is promoted with the increased width of fault zones due to geometrical spreading effects. Moreover, nonground-breaking ruptures may reach the ground surface with the effects of damage fault zones. Furthermore, along-strike segmented fault zones as suggested by observations could also promote ruptures and may lead to preferred rupture directions if epicenters are close to fault zones. The effects of damage fault zones on rupture propagation hold important implications on assessing earthquake risk."
  
 #
 ## Summary. An optional shortened abstract.
@@ -29,7 +31,7 @@ abstract: "Frictional properties of seismogenic faults play critical roles in ea
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1029/2017JB015414
+url_pdf: https://doi.org/10.1002/2015JB012713
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''

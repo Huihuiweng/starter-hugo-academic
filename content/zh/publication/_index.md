@@ -9,8 +9,6 @@ title: Publications
 #   4 = Citation
 view: 4
 
-count: 0
-order: 'desc'
 ## Optional header image (relative to `static/media/` folder).
 #header:
 #  caption: 'adsf'

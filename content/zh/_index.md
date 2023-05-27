@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 翁辉辉 Huihui Weng
+      title: 南大震源物理
   - block: about.biography
     id: about
     content:
@@ -38,10 +38,9 @@ sections:
     id: publications
     content:
       title: 学术论文
-      filters:
-        folders:
+      count: 20
+      folders:
           - publication
-        exclude_featured: false
     design:
       columns: '2'
       view: citation

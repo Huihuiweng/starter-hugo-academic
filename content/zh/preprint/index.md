@@ -1,7 +1,7 @@
 ---
 title: "Integrated rupture mechanics for slow slip events and earthquakes"
 authors:
-- Huihui Weng
+- hweng
 - Jean-Paul Ampuero
 #author_notes:
 #- "Equal contribution"

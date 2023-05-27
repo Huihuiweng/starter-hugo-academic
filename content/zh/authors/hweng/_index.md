@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 翁辉辉
+title: Huihui Weng
 
 # Is this the primary user of the site?
-superuser: true
+superuser: False
 
 # Role/position/tagline
 role: 南京大学副教授，博士生导师(PI)  weng@nju.edu.cn
@@ -20,12 +20,6 @@ education:
     - course: 固体地球物理
       institution: 中国科学技术大学
       year: 2015
-
-employments:
-  courses:
-    - course: 
-      institution: 香港中文大学
-      year: 2015-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,5 +49,5 @@ email: 'weng@nju.edu.cn'
 highlight_name: true
 ---
 
-翁辉辉博士，副教授（PI，特聘研究员），博士生导师，主要从事震源物理的理论和数值模拟研究，入选2021年国家青年人才（海外）计划。2015年取得中国科学技术大学博士学位，先后在香港中文大学、法国UCA和法国国家科学研究中心从事博士后工作，2022年9月加入南京大学。研究兴趣包括但不限于：震源物理的理论和数值模拟研究、估算油田诱发地震的最大震级、大地震动态破裂过程反演等，在Nature Geoscience, Nature Communications, JGR, GRL 等国内外刊物发表论文13篇。
+翁辉辉主要从事震源物理的理论和数值模拟研究，入选2021年国家青年人才（海外）计划。2015年取得中国科学技术大学博士学位，先后在香港中文大学、法国UCA和法国国家科学研究中心从事博士后工作，2022年9月加入南京大学。研究兴趣包括但不限于：震源物理的理论和数值模拟研究、估算油田诱发地震的最大震级、大地震动态破裂过程反演等，在Nature Geoscience, Nature Communications, JGR, GRL 等国内外刊物发表论文13篇。
 {style="text-align: justify;"}
