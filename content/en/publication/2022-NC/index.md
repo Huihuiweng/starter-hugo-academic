@@ -7,7 +7,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2022-12-01T00:00:00Z"
-#doi: ""
+doi: "https://doi.org/10.1038/s41467-022-34927-w"
 #
 ## Schedule page publish date (NOT publication's date).
 publishDate: "2022"
@@ -19,10 +19,10 @@ publishDate: "2022"
 publication_types: ["2"]
 #
 ## Publication name and optional abbreviated publication name.
-publication: "*Natiure Communications*"
+publication: "*Nature Communications*"
 #publication_short: ""
 #
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Slow slip events occur worldwide and could trigger devastating earthquakes, yet it is still debated whether their moment-duration scaling is linear or cubic and a fundamental model unifying slow and fast earthquakes is still lacking. Here, we show that the rupture propagation of simulated slow and fast earthquakes can be predicted by a newly-developed three-dimensional theory of dynamic fracture mechanics accounting for finite rupture width, an essential ingredient missing in previous theories. The complete spectrum of rupture speeds is controlled by the ratio of fracture energy to energy release rate. Shear stress heterogeneity can produce a cubic scaling on a single fault while effective normal stress variability produces a linear scaling on a population of faults, which reconciles the debated scaling relations. This model provides a new framework to explain how slow slip might lead to earthquakes and opens new avenues for seismic hazard assessment integrating seismological, laboratory and theoretical developments. 
 #
 ## Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,10 +44,11 @@ url_pdf: https://www.nature.com/articles/s41467-022-34927-w
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+image:
+#  caption: A new model elucidates the connections between silent earthquakes ("slow slip events") and regular ones by accounting for their finite rupture depth. It reconciles debated features of slow slip events and explains how they might lead to earthquakes. 
 #  focal_point: ""
 #  preview_only: false
+   alt_text: A new model elucidates the connections between silent earthquakes ("slow slip events") and regular ones by accounting for their finite rupture depth. It reconciles debated features of slow slip events and explains how they might lead to earthquakes.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
