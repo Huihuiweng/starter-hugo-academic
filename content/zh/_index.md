@@ -7,13 +7,21 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 南大震源物理
+      title: 欢迎访问翁辉辉个人主页
   - block: about.biography
     id: about
     content:
       title:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+         padding: ["30px", "0", "10px", "0"]
+#      background:
+#        image:
+#        # Name of image in `assets/media/`.
+#        filename: avatar.jpg
 
   - block: experience
     content:
@@ -33,17 +41,41 @@ sections:
           date_end: '2018-04-14'
     design:
       columns: '2'
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+         padding: ["30px", "0", "10px", "0"]
 
   - block: collection
-    id: publications
+    id: publication
     content:
-      title: 学术论文
-      count: 20
+      title: 未经同行评审论文
+      text: "#学生或者博士后   *通讯作者"
+      count: 0
       folders:
-          - publication
+        - content/zh/publication/preprint
+      offset: 0
+      filters:
+        publication_type: "0"
     design:
       columns: '2'
       view: citation
+      spacing:
+         padding: ["30px", "0", "10px", "0"]
+  - block: collection
+    id: accepted papers
+    content:
+      title: 同行评审论文
+      text: "#学生或者博士后   *通讯作者"
+      count: 0
+      folders:
+          - content/zh/publication/journal_papers
+      filters:
+         publication_type: "2"
+    design:
+      columns: '2'
+      view: citation
+      spacing:
+         padding: ["10px", "0", "10px", "0"]
 
   - block: collection
     id: teaching
@@ -68,3 +100,5 @@ sections:
       columns: '2'
       view: compact
 ---
+asdflkj
+{style="text-align: justify;"}
