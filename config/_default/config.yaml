@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Weng's Homepage # Website name
+title: 南大震源物理 # Website name
 baseURL: 'https://huihuiweng.github.io/' # Website URL
 
 ############################

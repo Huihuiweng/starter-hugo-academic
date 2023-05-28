@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huihui Weng
+title: 翁辉辉
 
 # Is this the primary user of the site?
 superuser: true
@@ -12,7 +12,7 @@ role: 南京大学副教授，博士生导师(PI)  weng@nju.edu.cn
 interests:
   - 地震震源物理
   - 慢地震与快地震破裂机制
-  - 地震破裂数值模拟
+  - 地震动态破裂数值模拟
 
 # Education to show in About widget
 education:
@@ -20,12 +20,6 @@ education:
     - course: 固体地球物理
       institution: 中国科学技术大学
       year: 2015
-
-employments:
-  courses:
-    - course: 
-      institution: 香港中文大学
-      year: 2015-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -35,15 +29,18 @@ social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: '/#contact'
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Weng_CV.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/huihui_weng
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=lYy3q-gAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=lYy3q-gAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/huihuiweng
@@ -55,5 +52,5 @@ email: 'weng@nju.edu.cn'
 highlight_name: true
 ---
 
-翁辉辉博士，副教授（PI，特聘研究员），博士生导师，主要从事震源物理的理论和数值模拟研究，入选2021年国家青年人才（海外）计划。2015年取得中国科学技术大学博士学位，先后在香港中文大学、法国UCA和法国国家科学研究中心从事博士后工作，2022年9月加入南京大学。研究兴趣包括但不限于：震源物理的理论和数值模拟研究、估算油田诱发地震的最大震级、大地震动态破裂过程反演等，在Nature Geoscience, Nature Communications, JGR, GRL 等国内外刊物发表论文13篇。
+翁辉辉主要从事震源物理的理论和数值模拟研究，入选2021年国家青年人才（海外）计划。2015年取得中国科学技术大学博士学位，先后在香港中文大学、法国UCA和法国国家科学研究中心从事博士后工作，2022年9月加入南京大学。研究兴趣包括但不限于：震源物理的理论和数值模拟研究、估算油田诱发地震的最大震级、大地震动态破裂过程反演等，在Nature Geoscience, Nature Communications, JGR, GRL 等国内外刊物发表论文13篇。
 {style="text-align: justify;"}

@@ -7,56 +7,126 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Huihui Weng 翁辉辉
+      title: 欢迎访问翁辉辉主页
   - block: about.biography
     id: about
     content:
       title:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+    design:
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+         padding: ["30px", "0", "10px", "0"]
+#      background:
+#        image:
+#        # Name of image in `assets/media/`.
+#        filename: avatar.jpg
+
+  - block: experience
     content:
-      title: Experience
+      title: 工作经历
+      date_format: 2023
       items:
-        - title: Postdoc
-          company: CUHK
-        - title: Postdoc
-          company: Geoazur
+        - title: 准聘副教授(PI, tenure track)
+          company: 南京大学
+          date_start: '2022-09-01'
+        - title: 博士后
+          company: 法国GEOAZUR实验室/CNRS/UCA
+          date_start: '2018-04-15'
+          date_end: '2022-07-31'
+        - title: 博士后
+          company: 香港中文大学
+          date_start: '2015-09-01'
+          date_end: '2018-04-14'
     design:
       columns: '2'
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+         padding: ["30px", "0", "10px", "0"]
 
-  - block: collection
-    id: publications
+  - block: portfolio
+    id: research
     content:
-      title: Publications
+      title: 研究
       filters:
         folders:
-          - publication
-        exclude_featured: true
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Deep Learning
+#          tag: Deep Learning
+#        - name: Other
+#          tag: Demo
+    design:
+      columns: '2'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+         padding: ["30px", "0", "10px", "0"]
+
+  - block: collection
+    id: publication
+    content:
+      title: 未经同行评审论文
+      text: "#学生或者博士后   *通讯作者"
+      count: 0
+      folders:
+        - content/zh/publication/preprint
+      offset: 0
+      filters:
+        publication_type: "0"
     design:
       columns: '2'
       view: citation
+      spacing:
+         padding: ["30px", "0", "10px", "0"]
+  - block: collection
+    id: accepted papers
+    content:
+      title: 同行评审论文
+      text: "#学生或者博士后   *通讯作者"
+      count: 0
+      folders:
+          - content/zh/publication/journal_papers
+      filters:
+         publication_type: "2"
+    design:
+      columns: '2'
+      view: citation
+      spacing:
+         padding: ["10px", "0", "10px", "0"]
 
   - block: collection
     id: teaching
     content:
-      title: Teachings
+      title: 教学课程
       filters:
         folders:
           - teaching
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
 
   - block: collection
     id: group
     content:
-      title: Group members
+      title: 团队成员
       filters:
         folders:
-          - event
+          - group
     design:
       columns: '2'
-      view: compact
+      view: showcase
 ---

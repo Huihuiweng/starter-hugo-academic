@@ -4,6 +4,7 @@
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
+  defaultContentLanguageInSubdir: false
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...

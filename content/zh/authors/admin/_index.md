@@ -12,7 +12,7 @@ role: 南京大学副教授，博士生导师(PI)  weng@nju.edu.cn
 interests:
   - 地震震源物理
   - 慢地震与快地震破裂机制
-  - 地震破裂数值模拟
+  - 地震动态破裂数值模拟
 
 # Education to show in About widget
 education:
@@ -29,15 +29,18 @@ social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: '/#contact'
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Weng_CV.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/huihui_weng
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=lYy3q-gAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=lYy3q-gAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/huihuiweng
