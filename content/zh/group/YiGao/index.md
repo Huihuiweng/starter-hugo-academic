@@ -1,10 +1,11 @@
 ---
 title: "高艺"
-summary: "研究方向：流体对慢地震和快地震破裂过程的影响"
-#date: '2022-09-01T00:00:00Z'
+summary: "硕士研究生\n\n研究方向：流体对慢地震和快地震破裂过程的影响"
+weight: 40
+#date: '2023-09-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link:  
+#external_link:  
 #'https://indico.ictp.it/event/8715/'
 
 #image:

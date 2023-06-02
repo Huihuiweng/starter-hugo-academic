@@ -1,27 +1,24 @@
 ---
-title: "高艺"
-summary: "硕士研究生\n\n研究方向：流体对慢地震和快地震破裂过程的影响"
-weight: 40
-#date: '2023-09-03T00:00:00Z'
+title: 优秀大学生夏令营
+summary: "2023年南京大学地球科学与工程学院“现代地球科学”优秀大学生夏令营招募通知 \n\n https://es.nju.edu.cn/90/fd/c4296a626941/page.htm"
+date: '2023-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-#external_link:  
-#'https://indico.ictp.it/event/8715/'
+external_link: ''
 
-#image:
-#  caption:
-#  focal_point: Smart
-#
+image:
+  caption: 
+  focal_point: Smart
+
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
-#    url: 
+#    url: https://twitter.com/georgecushen
 #url_code: ''
-#url_pdf: 
+#url_pdf: 'https://www.nature.com/articles/s41561-020-00654-4'
 #url_slides: ''
 #url_video: ''
-#url_poster: "https://indico.ictp.it/event/8715/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,3 +27,4 @@ weight: 40
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+

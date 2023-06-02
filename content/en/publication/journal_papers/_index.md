@@ -9,6 +9,7 @@ title: 同行评审论文
 #   4 = Citation
 view: 1
 
+profile: false 
 ## Optional header image (relative to `static/media/` folder).
 #header:
 #  caption: 'adsf'

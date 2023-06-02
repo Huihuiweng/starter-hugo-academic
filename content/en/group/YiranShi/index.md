@@ -1,10 +1,11 @@
 ---
 title: "史乙然"
-summary: "研究方向：基于数值模拟对慢滑移与逆冲地震触发关系的研究"
-#date: '2023-09-01T00:00:00Z'
+Description: "博士生"
+summary: "博士研究生\n\n 研究方向：基于数值模拟对慢滑移与逆冲地震触发关系的研究"
+#date: '2023-09-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link:  
+#external_link:  
 #'https://indico.ictp.it/event/8715/'
 
 #image:

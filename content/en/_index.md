@@ -23,6 +23,19 @@ sections:
 #        # Name of image in `assets/media/`.
 #        filename: avatar.jpg
 
+  - block: portfolio
+    content:
+      title: 最新动态
+      filters:
+        folders:
+          - news
+    design:
+      columns: '2'
+      view: showcase
+      flip_alt_rows: false
+      spacing:
+         padding: ["30px", "0", "10px", "0"]
+
   - block: experience
     content:
       title: 工作经历
@@ -118,6 +131,8 @@ sections:
     design:
       columns: '2'
       view: compact
+      spacing:
+         padding: ["10px", "0", "10px", "0"]
 
   - block: collection
     id: group
@@ -129,4 +144,20 @@ sections:
     design:
       columns: '2'
       view: showcase
+      flip_alt_rows: false
+      spacing:
+         padding: ["10px", "0", "10px", "0"]
+
+  - block: collection
+    content:
+      title: 毕业学生 
+      filters:
+        folders:
+          - graduate
+    design:
+      columns: '2'
+      view: showcase
+      flip_alt_rows: false
+      spacing:
+         padding: ["0px", "0", "10px", "0"]
 ---

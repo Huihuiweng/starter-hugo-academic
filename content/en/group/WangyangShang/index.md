@@ -4,7 +4,7 @@ summary: "研究方向：待定"
 #date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link:  
+#external_link:  
 #'https://indico.ictp.it/event/8715/'
 
 #image:

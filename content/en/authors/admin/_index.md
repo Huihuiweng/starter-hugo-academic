@@ -20,9 +20,9 @@ education:
     - course: 固体地球物理
       institution: 中国科学技术大学
       year: 2015
-    - course: 植物科学
-      institution: 华中农业大学
-      year: 2010
+#    - course: 植物科学
+#      institution: 华中农业大学
+#      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

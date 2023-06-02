@@ -1,8 +1,8 @@
 ---
-title: "高艺"
-summary: "硕士研究生\n\n研究方向：流体对慢地震和快地震破裂过程的影响"
-weight: 40
-#date: '2023-09-03T00:00:00Z'
+title: "赵德政"
+summary: "专职科研岗\n\n 研究方向：待定"
+weight: 10
+#date: '2023-09-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link:  

@@ -1,6 +1,6 @@
 ---
 title: 尼泊尔地震的动态破裂模型
-summary: 利用进场观测数据约束2015 Mw7.8尼泊尔地震的断层摩擦参数
+summary: 利用近场观测数据约束2015 Mw7.8尼泊尔地震的断层摩擦参数
 tags:
   - Dynamic rupture simulation
 date: '2018-07-24T00:00:00Z'

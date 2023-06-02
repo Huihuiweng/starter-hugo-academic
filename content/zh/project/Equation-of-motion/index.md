@@ -1,27 +1,26 @@
 ---
-title: "高艺"
-summary: "硕士研究生\n\n研究方向：流体对慢地震和快地震破裂过程的影响"
-weight: 40
-#date: '2023-09-03T00:00:00Z'
+title: 地震破裂的新理论
+summary: 发展了有限断层宽度的破裂运动方程
+tags:
+  - Rupture dynamics
+date: '2019-08-14T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-#external_link:  
-#'https://indico.ictp.it/event/8715/'
+#external_link: ''
 
-#image:
-#  caption:
-#  focal_point: Smart
-#
+image:
+  caption:
+  focal_point: Smart
+
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: 
 #url_code: ''
-#url_pdf: 
+url_pdf: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB017684'
 #url_slides: ''
 #url_video: ''
-#url_poster: "https://indico.ictp.it/event/8715/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -30,3 +29,4 @@ weight: 40
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
