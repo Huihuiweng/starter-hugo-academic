@@ -1,6 +1,6 @@
 ---
-title: 优秀大学生夏令营
-summary: "2023年南京大学地球科学与工程学院“现代地球科学”优秀大学生夏令营招募通知 \n\n https://es.nju.edu.cn/90/fd/c4296a626941/page.htm"
+title: 2023 Summer Camp in Nanjing University
+summary: "https://es.nju.edu.cn/90/fd/c4296a626941/page.htm"
 date: '2023-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
