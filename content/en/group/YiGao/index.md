@@ -1,7 +1,7 @@
 ---
-title: "高艺"
-summary: "硕士研究生\n\n研究方向：流体对慢地震和快地震破裂过程的影响"
-weight: 40
+title: "Yi Gao"
+summary: "Slow and fast earthquakes"
+weight: 20
 #date: '2023-09-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

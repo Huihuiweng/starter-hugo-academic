@@ -1,5 +1,5 @@
 ---
-title: 同行评审论文
+title: Pear-review papers
 #cms_exclude: true
 
 # View.

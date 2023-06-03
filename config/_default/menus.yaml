@@ -4,19 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 主页
+  - name: 主页 Homepage
     url: '#about'
     weight: 10
-  - name: 研究
+  - name: 研究 Research
     url: '#research'
     weight: 20
-  - name: 学术论文
+  - name: 学术论文 Publication
     url: '#publication'
     weight: 30
-  - name: 教学课程
+  - name: 教学课程 Teaching
     url: '#teaching'
     weight: 40
-  - name: 团队成员
+  - name: 团队成员 Group
     url: '#group'
     weight: 50
 

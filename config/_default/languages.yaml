@@ -5,17 +5,45 @@ zh:
   languageCode: zh-Hans
   contentDir: content/zh
   defaultContentLanguageInSubdir: false
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  title: 南大震源物理 # Website name
+  menu:
+    main:
+      - name: 主页
+        url: '#about'
+        weight: 10
+      - name: 研究
+        url: '#research'
+        weight: 20
+      - name: 学术论文
+        url: '#publication'
+        weight: 30
+      - name: 教学课程
+        url: '#teaching'
+        weight: 40
+      - name: 团队成员
+        url: '#group'
+        weight: 50
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: NJU Seismology # Website name
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Research
+        url: '#research'
+        weight: 20
+      - name: Publication
+        url: '#publication'
+        weight: 30
+      - name: Teaching
+        url: '#teaching'
+        weight: 40
+      - name: Group
+        url: '#group'
+        weight: 50

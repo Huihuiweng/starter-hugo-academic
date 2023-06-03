@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 欢迎访问翁辉辉主页
+      title: Welcome to Weng's Homepage!
   - block: about.biography
     id: about
     content:
@@ -25,7 +25,7 @@ sections:
 
   - block: portfolio
     content:
-      title: 最新动态
+      title: News
       filters:
         folders:
           - news
@@ -38,18 +38,18 @@ sections:
 
   - block: experience
     content:
-      title: 工作经历
+      title: Experience
       date_format: 2023
       items:
-        - title: 准聘副教授(PI, tenure track)
-          company: 南京大学
+        - title: Associate Professor (tenure track)
+          company: Nanjing University
           date_start: '2022-09-01'
-        - title: 博士后
-          company: 法国GEOAZUR实验室/CNRS/UCA
+        - title: Postdoc
+          company: Geoazur laboratory/CNRS/UCA France
           date_start: '2018-04-15'
           date_end: '2022-07-31'
-        - title: 博士后
-          company: 香港中文大学
+        - title: Postdoc
+          company: The Chinese University of Hong Kong
           date_start: '2015-09-01'
           date_end: '2018-04-14'
     design:
@@ -61,7 +61,7 @@ sections:
   - block: portfolio
     id: research
     content:
-      title: 研究
+      title: Research
       filters:
         folders:
           - project
@@ -91,11 +91,11 @@ sections:
   - block: collection
     id: publication
     content:
-      title: 未经同行评审论文
-      text: "#学生或者博士后   *通讯作者"
+      title: Non-peer-reviewed papers
+      text: "#Students or postdoc *Corresponding"
       count: 0
       folders:
-        - content/zh/publication/preprint
+        - publication/preprint
       offset: 0
       filters:
         publication_type: "0"
@@ -107,11 +107,11 @@ sections:
   - block: collection
     id: accepted papers
     content:
-      title: 同行评审论文
-      text: "#学生或者博士后   *通讯作者"
+      title: Peer-reviewed papers
+      text: "#Students or postdoc *Corresponding"
       count: 0
       folders:
-          - content/zh/publication/journal_papers
+          - publication/journal_papers
       filters:
          publication_type: "2"
     design:
@@ -123,7 +123,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: 教学课程
+      title: Teaching
       filters:
         folders:
           - teaching
@@ -137,7 +137,7 @@ sections:
   - block: collection
     id: group
     content:
-      title: 团队成员
+      title: Group
       filters:
         folders:
           - group
@@ -150,7 +150,7 @@ sections:
 
   - block: collection
     content:
-      title: 毕业学生 
+      title: Graduated students 
       filters:
         folders:
           - graduate

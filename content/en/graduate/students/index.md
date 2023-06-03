@@ -1,6 +1,6 @@
 ---
 title: ""
-summary: "本科生：沈佳益"
+summary: "Undergraduate: Jiayi Shen"
 weight: 10
 #date: '2023-09-03T00:00:00Z'
 

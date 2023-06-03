@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: NJU
+title: Weng
 date: 2023-6-24
 type: landing
 
@@ -95,7 +95,7 @@ sections:
       text: "#学生或者博士后   *通讯作者"
       count: 0
       folders:
-        - content/zh/publication/preprint
+        - publication/preprint
       offset: 0
       filters:
         publication_type: "0"
@@ -111,7 +111,7 @@ sections:
       text: "#学生或者博士后   *通讯作者"
       count: 0
       folders:
-          - content/zh/publication/journal_papers
+          - publication/journal_papers
       filters:
          publication_type: "2"
     design:

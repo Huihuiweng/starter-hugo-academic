@@ -1,5 +1,5 @@
 ---
-title: "2022地震学"
+title: "2022 Seismology"
 summary: 
 date: '2022-09-01T00:00:00Z'
 

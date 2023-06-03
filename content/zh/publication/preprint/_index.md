@@ -1,6 +1,8 @@
 ---
 title: 未经同行评审论文
 cms_exclude: true
+show_related: false
+active: false
 
 # View.
 #   1 = List

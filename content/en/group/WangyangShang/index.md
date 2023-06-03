@@ -1,6 +1,7 @@
 ---
-title: "尚王阳"
-summary: "研究方向：待定"
+title: "Wangyang Shang"
+summary: "Slow earthquakes"
+weight: 40
 #date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

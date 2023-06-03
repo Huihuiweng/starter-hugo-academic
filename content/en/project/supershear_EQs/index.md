@@ -1,6 +1,6 @@
 ---
-title: 预测地震破裂速度的新模型
-summary: 新的模型预测地震破裂速度具有连续性 — “打破”了传统理论预测的速度禁区
+title: A new model found to predict earthquake propagation speed
+summary: We propose a new model predicting continuum of earthquake rupture speeds due to oblique sliding.
 tags:
   - Supershear earthuakes
 date: '2020-09-01T00:00:00Z'
@@ -30,9 +30,9 @@ url_pdf: 'https://www.nature.com/articles/s41561-020-00654-4'
 #slides: example
 ---
 
-地震是拥有巨大破坏力的自然灾害，而我们对它的了解却十分有限。地震的发生源于地球板块接触面的相对摩擦滑动。该摩擦滑动并不是瞬时发生的，而是从接触面上的一个点开始向外逐渐扩张至整个断层面，其扩张速度称为地震破裂速度。地震破裂速度是地震学家尤为关心的物理量：地震破裂速度越大，则地面震动和地震破坏力就越强。
+Among the most damaging natural hazards, earthquakes are still today one of the least understood phenomena in Earth Sciences. Earthquakes happen when rocks on either side of a tectonic fault slide. The sliding, however, does not occur along the whole fault at once but starts at one point, the
+hypocenter, and then spreads over the entire fault at a speed known as the "rupture speed" of the earthquake. Geophysicists are particularly interested in rupture speeds because the faster they are, the stronger the seismic waves and therefore the greater the damage caused.
 
-传统破裂理论预测地震破裂面不能以任意速度扩张。科学家们因此得出，地震破裂速度存在一个理论的速度禁区，位于P波和S波波速之间（P波和S波为地球的两大主要地震波）。然而，最新的地震观测数据却显示该速度禁区并非不可能，例如造成了巨大人员伤亡的2018年印度尼西亚帕卢地震，其破裂速度快于S波波速（地球上大部分地震的破裂速度都低于S波波速）、且位于该理论速度禁区内。
+Seismic models developed so far concluded that earthquakes could not propagate in a stable and sustainable way at arbitrary speeds. Scientists had therefore determined a forbidden speed   range situated between the speed of P and S waves, the two main seismic waves that propagate through the Earth. However, progress in the seismological observation of earthquakes has made it possible to demonstrate that recent earthquakes had actually propagated within the forbidden range. Such was the case for the 2018 earthquake in Palu, Indonesia, for example, which caused a destructive tsunami.
 
-为解决传统破裂理论的困境，文章作者发展了一个新的模型可用于预测地震的破裂速度。该模型结合了最新的理论研究成果，并通过了高性能计算机支持的数值模拟结果验证。文章作者成功地克服了传统理论的两大关键限制。一，传统理论主要基于二维空间，而真实的地球是三维的；二，传统理论假设板块的相对错动方向是水平或垂直的，而真实的板块相对错动方向是倾斜的。考虑了这两个关键因素，新的模型预测地震破裂速度具有连续性 — “打破”了传统理论预测的速度禁区。
-
+We managed to overcome two crucial limitations of the previous models. The first was to rely on 2-dimensional models, while the Earth is 3-dimensional. The second was to assume either a horizontal or a vertical direction of sliding, while earthquake sliding can be oblique. By overcoming these two limitations, they were able to explain why the "forbidden speeds" are actually admissible.

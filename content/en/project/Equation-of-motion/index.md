@@ -1,6 +1,6 @@
 ---
-title: 地震破裂的新理论
-summary: 发展了有限断层宽度的破裂运动方程
+title: New theory for elongated ruptures
+summary: We develop a new 3D theory to describe the rupture propagation in a fault with finite width.
 tags:
   - Rupture dynamics
 date: '2019-08-14T00:00:00Z'
@@ -30,3 +30,8 @@ url_pdf: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB017684'
 #slides: example
 ---
 
+The dynamics of ruptures in 3-D dynamic rupture simulations can be well described by the following inertial equation-of-motion:
+
+$F(G_c/G_0) = M(v_r) \cdot \dot{v}_r$
+
+where $G_c$ is the fracture energy, $G_0$ is the static energy release rate, $v_r$ is the ruptuer speed, $\dot{v}_r$ is the rupture acceleration, $F()$ and $M()$ are the known "Force" and "Mass" terms. 

@@ -1,6 +1,6 @@
 ---
-title: "赵德政"
-summary: "专职科研岗\n\n 研究方向：待定"
+title: "Dezheng Zhao"
+summary: "Geodesy"
 weight: 10
 #date: '2023-09-04T00:00:00Z'
 

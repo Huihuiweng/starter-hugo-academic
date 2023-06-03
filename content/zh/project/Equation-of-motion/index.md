@@ -1,6 +1,6 @@
 ---
 title: 地震破裂的新理论
-summary: 发展了有限断层宽度的破裂运动方程
+summary: 发展了有限断层宽度的三维破裂运动方程
 tags:
   - Rupture dynamics
 date: '2019-08-14T00:00:00Z'
@@ -30,3 +30,8 @@ url_pdf: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB017684'
 #slides: example
 ---
 
+有限断层宽度的地震破裂过程可以由如下三维破裂运动方程描述：
+
+$F(G_c/G_0) = M(v_r) \cdot \dot{v}_r$
+
+其中$G_c$为破裂能，$G_0$为静态弹性能，$v_r$为破裂速度，$\dot{v}_r$为破裂加速度，$F()$和$M()$分别为已知的“力源”项和“质量”项。

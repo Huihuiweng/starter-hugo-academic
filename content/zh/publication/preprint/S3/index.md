@@ -25,6 +25,7 @@ publication: "In manuscript"
 #- Source Themes
 featured: false
 
+external_link: ''
 # links:
 # - name: ""
 #   url: ""

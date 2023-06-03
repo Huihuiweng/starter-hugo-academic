@@ -1,24 +1,24 @@
 ---
 # Display name
-title: 翁辉辉
+title: Huihui Weng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 南京大学副教授，博士生导师(PI)  weng@nju.edu.cn
+role: Associate Professor, weng@nju.edu.cn
 
 # Interests to show in About widget
 interests:
-  - 地震震源物理
-  - 慢地震与快地震破裂机制
-  - 地震动态破裂数值模拟
+  - Earthquake physics
+  - Slow and fast earthquakes
+  - Dynamic rupture simulations
 
 # Education to show in About widget
 education:
   courses:
-    - course: 固体地球物理
-      institution: 中国科学技术大学
+    - course: Geophysics
+      institution: University of Science and Technology of China
       year: 2015
 #    - course: 植物科学
 #      institution: 华中农业大学
@@ -34,7 +34,7 @@ social:
 #    link: '/#contact'
   - icon: cv
     icon_pack: ai
-    link: uploads/Weng_CV.pdf
+    link: ../uploads/Weng_CV.pdf
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/huihui_weng
@@ -55,5 +55,5 @@ email: 'weng@nju.edu.cn'
 highlight_name: true
 ---
 
-翁辉辉主要从事震源物理的理论和数值模拟研究，入选2021年国家青年人才（海外）计划。2015年取得中国科学技术大学博士学位，先后在香港中文大学、法国UCA和法国国家科学研究中心从事博士后工作，2022年9月加入南京大学。研究兴趣包括但不限于：震源物理的理论和数值模拟研究、估算油田诱发地震的最大震级、大地震动态破裂过程反演等，在Nature Geoscience, Nature Communications, JGR, GRL 等国内外刊物发表论文13篇。
+His research vision is to achieve a fundamental understanding of fault mechanics, through synergistic efforts in combining theoretical, computational, laboratorial, and observational approaches. His long-term goals aim at answering the following essential questions: What controls the nucleation, propagation, and arrest of earthquake ruptures? Can we anticipate the size of future earthquakes? What controls the slow and fast earthquake cycle? How can we improve the way seismic risk is evaluated?
 {style="text-align: justify;"}

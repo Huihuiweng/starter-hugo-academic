@@ -1,5 +1,5 @@
 ---
-title: "International summer schools"
+title: "2019 International summer schools"
 summary: "2019 Advanced Workshop on Earthquake Fault Mechanics: Theory, Simulation and Observations at ICTP, Trieste, Italy"
 date: '2019-09-02T00:00:00Z'
 
