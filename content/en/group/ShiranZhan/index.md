@@ -1,8 +1,8 @@
 ---
-title: "赵德政"
-summary: "专职科研岗\n\n 研究方向：多尺度断层形变的形成机制"
-weight: 10
-#date: '2023-09-04T00:00:00Z'
+title: "Shiran Zhan"
+summary: "Landslides"
+weight: 30
+#date: '2023-09-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link:  

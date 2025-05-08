@@ -1,33 +1,26 @@
 ---
-title: "Dynamics of the process zone and multiple rupture fronts controlled by velocity-dependent friction"
+title: "An updated fault coupling model along major block-bounding faults on the eastern and northeastern Tibetan Plateau from a stress-constrained inversion of GPS and InSAR data"
 authors:
-- Shengxin Zhu#
-- Leilei Wu#
-- Heng Yang
-- Kai Yi
-- Jianguo Zhu
-- Qinglei Zeng*
-- hweng_cor
-- Lingsen Meng
-- Hao-sen Chen*
-- Daining Fang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Dezheng Zhao#
+- Chunyan Qu
+- Xinjian Shan
+- Wenyu Gong
+- hweng
+- Han Chen
+- Donglin Wu
 
-date: 2050-01-09T10:23:57+08:00
+date: 2024-03-01T10:23:57+08:00
 #
 ## Publication type.
 ## Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 ## 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 ## 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 #
 ## Publication name and optional abbreviated publication name.
-#publication: "*Journal of Geophysical Research: Solid Earth*"
+publication: "*Journal of Geophysical Research: Solid Earth*"
 #publication: "*Geophysical Research Letters*"
 #publication: "In manuscript"
-publication: "Submitted"
 #
  
 #

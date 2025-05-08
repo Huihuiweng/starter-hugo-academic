@@ -1,6 +1,6 @@
 ---
-title: A new model found to predict earthquake propagation speed
-summary: We propose a new model predicting continuum of earthquake rupture speeds due to oblique sliding.
+title: Supershear ruptures
+summary: A new theoretical model predicting continuum of earthquake rupture speeds due to oblique sliding.
 tags:
   - Supershear earthuakes
 date: '2020-09-01T00:00:00Z'

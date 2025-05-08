@@ -1,6 +1,6 @@
 ---
-title: A new theory connects slow and fast earthquakes 
-summary: We propose a new model to elucidate the fundamental connections between slow and fast earthquakes.
+title: Slow and fast earthquakes 
+summary: A new theoretical model elucidating the fundamental connections between slow and fast earthquakes.
 tags:
   - Slow earthquakes
 date: '2022-12-01T00:00:00Z'

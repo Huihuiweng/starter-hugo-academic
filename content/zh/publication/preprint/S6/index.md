@@ -1,11 +1,10 @@
 ---
-title: "Physics-based estimates of the maximum magnitude 
-of induced earthquakes in the Groningen gas field – part I: theoretical validation"
+title: "Theoretical model for physics-based estimation of maximum earthquake sizes"
 authors:
 - hweng_cor
 - Loes Buijze
 - Jean-Paul Ampuero
-date: 2023-01-06T10:23:57+08:00
+date: 2024-04-01T10:23:57+08:00
 #
 ## Publication type.
 ## Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +15,7 @@ publication_types: ["0"]
 ## Publication name and optional abbreviated publication name.
 #publication: "*Journal of Geophysical Research: Solid Earth*"
 #publication: "*Geophysical Research Letters*"
-publication: "In manuscript"
+publication: "Submitted"
 #
  
 #

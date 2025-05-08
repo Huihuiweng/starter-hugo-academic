@@ -1,33 +1,30 @@
 ---
-title: "Dynamics of the process zone and multiple rupture fronts controlled by velocity-dependent friction"
+title: "Physics-based assessment of earthquake potential on the Anninghe-Zemuhe fault system in southwestern China"
 authors:
-- Shengxin Zhu#
-- Leilei Wu#
-- Heng Yang
-- Kai Yi
-- Jianguo Zhu
-- Qinglei Zeng*
-- hweng_cor
-- Lingsen Meng
-- Hao-sen Chen*
-- Daining Fang
+- Faqi Diao
+- hweng
+- Jean-Paul Ampuero
+- Zhigang Shao
+- Rongjiang Wang
+- Feng Long
+- Xiong Xiong
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Corresponding: fqdiao@cug.edu.cn"
+- "Corresponding: weng@nju.edu.cn"
 
-date: 2050-01-09T10:23:57+08:00
+date: 2024-08-12T10:23:57+08:00
 #
 ## Publication type.
 ## Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 ## 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 ## 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 #
 ## Publication name and optional abbreviated publication name.
 #publication: "*Journal of Geophysical Research: Solid Earth*"
 #publication: "*Geophysical Research Letters*"
 #publication: "In manuscript"
-publication: "Submitted"
+publication: "*Nature Communications*"
 #
  
 #
@@ -41,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: https://doi.org/10.1093/gji/ggt376
+url_pdf: https://doi.org/10.1038/s41467-024-51313-w 
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''

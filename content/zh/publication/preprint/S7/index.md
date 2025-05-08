@@ -1,6 +1,5 @@
 ---
 title: "Physics-based estimates of the maximum magnitude  of induced earthquakes in the Groningen gas field (application part)"
-of induced earthquakes in the Groningen gas field – part I: theoretical validation"
 authors:
 - Loes Buijze
 - hweng

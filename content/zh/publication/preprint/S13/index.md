@@ -1,21 +1,9 @@
 ---
-title: "Dynamics of the process zone and multiple rupture fronts controlled by velocity-dependent friction"
+title: "The dynamics of fast and slow earthquake ruptures in viscoelastic materials"
 authors:
-- Shengxin Zhu#
-- Leilei Wu#
-- Heng Yang
-- Kai Yi
-- Jianguo Zhu
-- Qinglei Zeng*
 - hweng_cor
-- Lingsen Meng
-- Hao-sen Chen*
-- Daining Fang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
-date: 2050-01-09T10:23:57+08:00
+date: 2024-03-01T10:23:57+08:00
 #
 ## Publication type.
 ## Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

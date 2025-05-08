@@ -15,6 +15,7 @@ publication_types: ["0"]
 #publication: "*Journal of Geophysical Research: Solid Earth*"
 #publication: "*Geophysical Research Letters*"
 publication: "In manuscript"
+list_format: false
 #
  
 #

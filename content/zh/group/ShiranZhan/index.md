@@ -1,8 +1,9 @@
 ---
-title: "赵德政"
-summary: "专职科研岗\n\n 研究方向：多尺度断层形变的形成机制"
-weight: 10
-#date: '2023-09-04T00:00:00Z'
+title: "占诗冉"
+Description: "硕士生"
+summary: "硕士研究生\n\n 研究方向 断层颗粒摩擦行为"
+weight: 50
+#date: '2024-09-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 #external_link:  

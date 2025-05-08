@@ -1,6 +1,6 @@
 ---
-title: New theory for elongated ruptures
-summary: We develop a new 3D theory to describe the rupture propagation in a fault with finite width.
+title: New 3D rupture theory
+summary: A new 3D theory to predict rupture propagation in a fault with finite width.
 tags:
   - Rupture dynamics
 date: '2019-08-14T00:00:00Z'

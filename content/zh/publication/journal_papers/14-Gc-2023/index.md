@@ -1,33 +1,23 @@
 ---
-title: "Dynamics of the process zone and multiple rupture fronts controlled by velocity-dependent friction"
+title: "Numerical modelling of earthquake cycles based on Navier-Stokes equations with Viscoelastic-plasticity rheology"
 authors:
-- Shengxin Zhu#
-- Leilei Wu#
-- Heng Yang
-- Kai Yi
-- Jianguo Zhu
-- Qinglei Zeng*
-- hweng_cor
-- Lingsen Meng
-- Hao-sen Chen*
-- Daining Fang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: 2050-01-09T10:23:57+08:00
+- Haibin Yang
+- Louis Moresi
+- hweng
+- Julian Giordani
+date: 2023-10-08T10:23:57+08:00
 #
 ## Publication type.
 ## Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 ## 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 ## 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 #
 ## Publication name and optional abbreviated publication name.
 #publication: "*Journal of Geophysical Research: Solid Earth*"
 #publication: "*Geophysical Research Letters*"
 #publication: "In manuscript"
-publication: "Submitted"
+publication: "*G-cube*"
 #
  
 #

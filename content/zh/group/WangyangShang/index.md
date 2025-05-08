@@ -1,6 +1,6 @@
 ---
 title: "尚王阳"
-summary: "研究方向：待定"
+summary: "研究方向：粘弹性介质的破裂规律"
 #date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
